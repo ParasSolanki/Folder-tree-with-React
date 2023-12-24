@@ -4,9 +4,9 @@ Folder tree structure with React, Typescript, TailwindCSS, shadcn/ui.
 
 ## Screenshots
 
-![Folder Tree Dark](/public/file-tree.PNG)
+![Folder Tree Dark](/file-tree.PNG)
 
-![Folder Tree Light](/public/file-tree-light.PNG)
+![Folder Tree Light](/file-tree-light.PNG)
 
 ## Installation
 
